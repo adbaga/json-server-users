@@ -1,0 +1,94 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ],
+
+  "users": [
+
+    {
+        "userId": "32505",
+        "userName": "Freda.Schaden59",
+        "firstName": "Brando",
+        "lastName": "Volkman",
+        "email": "Laury_Renner@hotmail.com"
+    },
+    {
+        "userId": "74048",
+        "userName": "Christina_Effertz76",
+        "firstName": "Margarett",
+        "lastName": "Hagenes",
+        "email": "Clark.Rogahn@hotmail.com"
+    },
+    {
+        "userId": "47900",
+        "userName": "Kira.Mann71",
+        "firstName": "Dedrick",
+        "lastName": "White",
+        "email": "Zackery_Prohaska51@yahoo.com"
+    },
+    {
+        "userId": "43165",
+        "userName": "Alexandra50",
+        "firstName": "Issac",
+        "lastName": "Abernathy",
+        "email": "Ransom_Gaylord@gmail.com"
+    },
+    {
+        "userId": "91199",
+        "userName": "Logan_Kreiger74",
+        "firstName": "Flo",
+        "lastName": "DuBuque",
+        "email": "Manuela58@yahoo.com"
+    },
+    {
+        "userId": "26890",
+        "userName": "Josephine_Cormier13",
+        "firstName": "Jacinthe",
+        "lastName": "Wilkinson",
+        "email": "Bradly27@hotmail.com"
+    },
+    {
+        "userId": "29685",
+        "userName": "Marcelina16",
+        "firstName": "Ken",
+        "lastName": "McLaughlin",
+        "email": "Pete_Bergstrom12@yahoo.com"
+    },
+    {
+        "userId": "79827",
+        "userName": "Colby45",
+        "firstName": "Branson",
+        "lastName": "Mohr",
+        "email": "Anika_Aufderhar@yahoo.com"
+    },
+    {
+        "userId": "59766",
+        "userName": "Dorothy_Cruickshank",
+        "firstName": "Kianna",
+        "lastName": "Lowe",
+        "email": "Dewayne_Hilll39@gmail.com"
+    },
+    {
+        "userId": "16478",
+        "userName": "Bernita.Welch",
+        "firstName": "Lulu",
+        "lastName": "Conroy",
+        "email": "Laila.Terry@hotmail.com"
+    }
+  
+  ]
+}
+
+
+
